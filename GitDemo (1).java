@@ -32,6 +32,7 @@ public class GitDemo {
             num /= 10;
         }
         
+        
         return factorialNumber;
     }
     
